@@ -1,0 +1,21 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "culmination-marketplace",
+  "description": "CulminationAI plugins for Claude Code",
+  "owner": {
+    "name": "culminationAI"
+  },
+  "plugins": [
+    {
+      "name": "claude-sounds",
+      "description": "Immersive sound effects for Claude Code hooks — magic spells, RPG vibes, expandable sound packs",
+      "category": "productivity",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/culminationAI/claude-sounds.git",
+        "sha": "87a5d39df4b042da45e8a3e6421dbb3a64086496"
+      },
+      "homepage": "https://github.com/culminationAI/claude-sounds"
+    }
+  ]
+}
