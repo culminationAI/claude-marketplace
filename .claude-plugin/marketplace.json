@@ -27,6 +27,17 @@
         "sha": "449391bd9f84b5523e0b4a744d1f24fd48f70f03"
       },
       "homepage": "https://github.com/culminationAI/claude-timer"
+    },
+    {
+      "name": "background-timer",
+      "description": "Background timer with task notifications \u2014 /timer skill",
+      "category": "productivity",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/culminationAI/background-timer.git",
+        "sha": "8636b65991ddc1c7d6da4d47baaa99f75005efaa"
+      },
+      "homepage": "https://github.com/culminationAI/background-timer"
     }
   ]
 }
