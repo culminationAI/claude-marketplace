@@ -8,12 +8,12 @@
   "plugins": [
     {
       "name": "claude-sounds",
-      "description": "Immersive sound effects for Claude Code hooks",
+      "description": "Your Claude Code shouldn't be silent. Carefully selected sounds for 10 key events.",
       "category": "productivity",
       "source": {
         "source": "url",
         "url": "https://github.com/culminationAI/claude-sounds.git",
-        "sha": "87a5d39df4b042da45e8a3e6421dbb3a64086496"
+        "sha": "7f345f7e8dc743e18d76dee28d1bb3baac67b6b7"
       },
       "homepage": "https://github.com/culminationAI/claude-sounds"
     },
