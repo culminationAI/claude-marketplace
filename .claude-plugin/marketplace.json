@@ -8,7 +8,7 @@
   "plugins": [
     {
       "name": "claude-sounds",
-      "description": "Immersive sound effects for Claude Code hooks — magic spells, RPG vibes, expandable sound packs",
+      "description": "Immersive sound effects for Claude Code hooks",
       "category": "productivity",
       "source": {
         "source": "url",
@@ -16,6 +16,17 @@
         "sha": "87a5d39df4b042da45e8a3e6421dbb3a64086496"
       },
       "homepage": "https://github.com/culminationAI/claude-sounds"
+    },
+    {
+      "name": "claude-timer",
+      "description": "Background timer with task notifications",
+      "category": "productivity",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/culminationAI/claude-timer.git",
+        "sha": "2643546307638fb318511234841c191bed4b26c1"
+      },
+      "homepage": "https://github.com/culminationAI/claude-timer"
     }
   ]
 }
